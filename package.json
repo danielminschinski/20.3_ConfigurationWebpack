@@ -1,0 +1,26 @@
+{
+  "name": "20.3_ConfigurationWebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack ./app.js --output app.bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielminschinski/20.3_ConfigurationWebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielminschinski/20.3_ConfigurationWebpack/issues"
+  },
+  "homepage": "https://github.com/danielminschinski/20.3_ConfigurationWebpack#readme"
+}
